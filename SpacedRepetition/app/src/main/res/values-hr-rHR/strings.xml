@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ponavljanje s Razmacima</string>
+    <string name="play_button">gumb za pokretanje igre</string>
+    <string name="home">Početna Stranica</string>
+    <string name="gameRules">Pravila Igre</string>
+    <string name="importSets">Uvezi Setove</string>
+    <string name="manageSets">Upravljaj Setovima</string>
+    <string name="profile">Profil</string>
+    <string name="login">Prijava</string>
+    <string name="shareSets">Djeli Setove</string>
+    <string name="share">Podjeli</string>
+    <string name="send">Pošalji</string>
+    <string name="username">Test Korisnik</string>
+    <string name="profile_pic">slika profila</string>
+    <string name="set_pic">slika seta</string>
+</resources>

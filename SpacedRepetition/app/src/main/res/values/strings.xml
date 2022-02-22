@@ -1,0 +1,31 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+
+    <string name="play_button">play button</string>
+
+    <string name="home">Home</string>
+    <string name="gameRules">Game Rules</string>
+    <string name="importSets">Import Sets</string>
+    <string name="manageSets">Manage Sets</string>
+
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="shareSets">Share Sets</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <string name="username">Test User</string>
+    <string name="profile_pic">profile pic</string>
+
+    <string name="set_pic">set pic</string>
+    <string name="app_name">Spaced Repetition</string>
+
+    <string name="butVji" translatable="false">Gumb 1</string>
+    <string name="butVjii" translatable="false">Gumb 2</string>
+
+
+</resources>
